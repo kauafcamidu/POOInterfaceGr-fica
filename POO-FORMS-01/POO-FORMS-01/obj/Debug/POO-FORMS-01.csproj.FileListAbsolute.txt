@@ -1,0 +1,11 @@
+C:\lpg1\POO-FORMS-01\POO-FORMS-01\bin\Debug\POO-FORMS-01.exe.config
+C:\lpg1\POO-FORMS-01\POO-FORMS-01\bin\Debug\POO-FORMS-01.exe
+C:\lpg1\POO-FORMS-01\POO-FORMS-01\bin\Debug\POO-FORMS-01.pdb
+C:\lpg1\POO-FORMS-01\POO-FORMS-01\obj\Debug\POO-FORMS-01.csproj.AssemblyReference.cache
+C:\lpg1\POO-FORMS-01\POO-FORMS-01\obj\Debug\POO-FORMS-01.csproj.SuggestedBindingRedirects.cache
+C:\lpg1\POO-FORMS-01\POO-FORMS-01\obj\Debug\POO_FORMS_01.Form1.resources
+C:\lpg1\POO-FORMS-01\POO-FORMS-01\obj\Debug\POO_FORMS_01.Properties.Resources.resources
+C:\lpg1\POO-FORMS-01\POO-FORMS-01\obj\Debug\POO-FORMS-01.csproj.GenerateResource.cache
+C:\lpg1\POO-FORMS-01\POO-FORMS-01\obj\Debug\POO-FORMS-01.csproj.CoreCompileInputs.cache
+C:\lpg1\POO-FORMS-01\POO-FORMS-01\obj\Debug\POO-FORMS-01.exe
+C:\lpg1\POO-FORMS-01\POO-FORMS-01\obj\Debug\POO-FORMS-01.pdb
